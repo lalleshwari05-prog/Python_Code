@@ -1,3 +1,4 @@
+#inheritance in python
 class Father:
     fn=""
     age1=""
